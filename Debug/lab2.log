@@ -1,0 +1,47 @@
+﻿  lab2.cpp
+e:\dev\lab\lab2\lab2.cpp(238): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\dev\lab\lab2\lab2.cpp(260): warning C4456: declaration of 'i' hides previous local declaration
+  e:\dev\lab\lab2\lab2.cpp(241): note: see declaration of 'i'
+e:\dev\lab\lab2\lab2.cpp(185): warning C4018: '>': signed/unsigned mismatch
+  e:\dev\lab\lab2\lab2.cpp(276): note: see reference to function template instantiation 't *insertionsort<int32_t>(const t *,size_t)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+e:\dev\lab\lab2\lab2.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  e:\dev\lab\lab2\lab2.cpp(286): note: see reference to function template instantiation 't *shellsort<int32_t>(const t *,size_t)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+e:\dev\lab\lab2\lab2.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  e:\dev\lab\lab2\lab2.cpp(121): note: see reference to function template instantiation 't *copyArray<t>(const t *,size_t)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+  e:\dev\lab\lab2\lab2.cpp(265): note: see reference to function template instantiation 't *quicksort<int32_t>(const t *,size_t,size_t,t *,bool)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+e:\dev\lab\lab2\lab2.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  e:\dev\lab\lab2\lab2.cpp(129): note: see reference to function template instantiation 't split<t>(t *,size_t,size_t)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+e:\dev\lab\lab2\lab2.cpp(202): warning C4018: '<': signed/unsigned mismatch
+  e:\dev\lab\lab2\lab2.cpp(224): note: see reference to function template instantiation 'void heapify<t>(t *,size_t,size_t)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+  e:\dev\lab\lab2\lab2.cpp(290): note: see reference to function template instantiation 't *heapSort<int32_t>(const t *,size_t,t *,bool)' being compiled
+          with
+          [
+              t=int32_t
+          ]
+e:\dev\lab\lab2\lab2.cpp(206): warning C4018: '<': signed/unsigned mismatch
+e:\dev\lab\lab2\lab2.cpp(209): warning C4389: '!=': signed/unsigned mismatch
+  lab2.vcxproj -> E:\dev\lab\lab2\Debug\lab2.exe
